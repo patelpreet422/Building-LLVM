@@ -1,6 +1,4 @@
 ```
-ccmake -G Ninja -DCMAKE_INSTALL_PREFIX='/home/preet/llvm-project-s-s-c/bin-build' -DCMAKE_BUILD_TYPE=Release -DLLVM_ENABLE_PROJECTS='clang;clang-tools-extra;compiler-rt;libcxx;libcxxabi' ../llvm
-
 .
 |--llvm-install
 |--llvm-build
